@@ -1,0 +1,8 @@
+#board {
+    border: 10px solid orange;
+    width: 600px;
+    height: 1000px;
+    margin: auto;
+    background-color: #f3a62256;
+    position: relative;
+}
